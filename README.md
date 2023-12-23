@@ -15,4 +15,4 @@ for (let i = 0; i < 4; ++i) {
 
 Reference from https://www.shadertoy.com/view/lsGGDd . This codes is aiming at adding custom texture to shadertoy.
 
-5. Click BufferA, then Click iChannel1. Upload the cyberpunk.png in this folder. Then, you can see the right side ball have it's color.
+4. Click BufferA, then Click iChannel1. Upload the cyberpunk.png in this folder. Then, you can see the right side ball have it's color.
