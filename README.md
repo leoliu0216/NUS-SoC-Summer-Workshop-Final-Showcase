@@ -1,5 +1,6 @@
 # NUS-SoC-Summer-Workshop-Final-Showcase
 Cyberpunk-styled Shader Implementation.
+
 To run the shader properly, you should operate as following instruction:
 
 1. Create BufferA and put the final_showcase.frag to BufferA.
