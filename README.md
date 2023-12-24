@@ -1,5 +1,5 @@
 # NUS-SoC-Summer-Workshop-Final-Showcase
-Third-prized Cyberpunk-styled Shader Implementation, run on shadertoy website (WebGL). Completed in collaboration with Sun Hao from Sichuan University and Li Zenan from HUST. To run the shader properly, you should operate as following instruction:
+Third-prized Cyberpunk-style Ray-Tracing Shader Implementation, run on shadertoy website (WebGL). Completed in collaboration with Sun Hao from Sichuan University and Li Zenan from HUST. To run the shader properly, you should operate as following instruction:
 
 1. Create BufferA and put the final_showcase.frag to BufferA.
 
