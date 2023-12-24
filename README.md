@@ -39,3 +39,4 @@ Reference from https://www.shadertoy.com/view/lsGGDd . This codes is aiming at a
 
 https://github.com/leoliu0216/NUS-SoC-Summer-Workshop-Final-Showcase/assets/154685171/d7a84400-c4e8-44dd-8769-0188b0c240d1
 
+![DSC_8847](https://github.com/leoliu0216/NUS-SoC-Summer-Workshop-Final-Showcase/assets/154685171/0eec18e0-3b75-49d0-8d14-bf7aba2cc0b4)
