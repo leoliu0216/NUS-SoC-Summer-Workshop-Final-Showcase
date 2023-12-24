@@ -35,3 +35,7 @@ Reference from https://www.shadertoy.com/view/lsGGDd . This codes is aiming at a
 4. Click BufferA, then Click iChannel1. Upload the cyberpunk.png in this folder. Then, you can see the right side ball have it's color.
 
 ![alt text](example1.png "Title")
+
+
+https://github.com/leoliu0216/NUS-SoC-Summer-Workshop-Final-Showcase/assets/154685171/d7a84400-c4e8-44dd-8769-0188b0c240d1
+
