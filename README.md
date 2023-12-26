@@ -43,6 +43,7 @@ https://github.com/leoliu0216/NUS-SoC-Summer-Workshop-Final-Showcase/assets/1546
 
 Our poster..
 
-[Uploading SWS3005_02.pdf…]()
 
+
+<img width="578" alt="Screen Shot 2023-12-26 at 2 44 08 PM" src="https://github.com/leoliu0216/NUS-SoC-Summer-Workshop-Final-Showcase/assets/154685171/212eebb6-fc6e-4eb2-8411-4ad94d0c9539">
 
